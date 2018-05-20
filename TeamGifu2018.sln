@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamGifu2018.Plugins", "TeamGifu2018.Plugins.csproj", "{FADDA997-986D-4F2E-6225-A9A6F7024E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamGifu2018", "TeamGifu2018.csproj", "{BC31FB5F-0E87-B353-628B-FCE0ABD91F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamGifu2018.Editor", "TeamGifu2018.Editor.csproj", "{CF98EB3E-53F5-3096-3288-8F0A365DECD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamGifu2018.Editor.Plugins", "TeamGifu2018.Editor.Plugins.csproj", "{2062BC75-5356-3E63-EBD2-833A9615A2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FADDA997-986D-4F2E-6225-A9A6F7024E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADDA997-986D-4F2E-6225-A9A6F7024E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADDA997-986D-4F2E-6225-A9A6F7024E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADDA997-986D-4F2E-6225-A9A6F7024E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC31FB5F-0E87-B353-628B-FCE0ABD91F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC31FB5F-0E87-B353-628B-FCE0ABD91F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC31FB5F-0E87-B353-628B-FCE0ABD91F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC31FB5F-0E87-B353-628B-FCE0ABD91F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF98EB3E-53F5-3096-3288-8F0A365DECD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF98EB3E-53F5-3096-3288-8F0A365DECD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF98EB3E-53F5-3096-3288-8F0A365DECD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF98EB3E-53F5-3096-3288-8F0A365DECD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2062BC75-5356-3E63-EBD2-833A9615A2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2062BC75-5356-3E63-EBD2-833A9615A2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2062BC75-5356-3E63-EBD2-833A9615A2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2062BC75-5356-3E63-EBD2-833A9615A2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
